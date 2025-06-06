@@ -1,4 +1,4 @@
-# Pygame-Naruto-Vs-Sasuke-Fight
+# Ninja Fight (Game)
 
 Naruto vs Sasuke Game
 Overview
